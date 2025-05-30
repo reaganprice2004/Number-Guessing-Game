@@ -17,9 +17,11 @@ The computer picks a random number between 1 and 100. Your job? Guess it - as fa
 '''bash
 git clone https://github.com/reaganprice2004/number-guessing-game.git
 cd number-guessing-game
+
 2. Run the script with Python
 python guessing_game.py
-3. Start guessing!
+
+4. Start guessing!
 
 ## 💡 Future Ideas
 - Add a scoreboard
