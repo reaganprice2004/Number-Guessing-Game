@@ -1,5 +1,5 @@
 # 🎲 Number-Guessing-Game (Python)
-**Timeline:** Originally created September 2023
+**Timeline:** created September 2023
 
 Welcome to my first Python mini-project --- a classic **Number Guessing Game**, built entirely in the terminal using Python!
 The computer picks a random number between 1 and 100. Your job? Guess it - as fast as you can. It gives you hints, counts your attempts, and celebrates when you win. 🔥
