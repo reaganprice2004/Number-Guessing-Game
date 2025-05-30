@@ -5,7 +5,7 @@ Welcome to my first Python mini-project --- a classic **Number Guessing Game**, 
 The computer picks a random number between 1 and 100. Your job? Guess it - as fast as you can. It gives you hints, counts your attempts, and celebrates when you win. 🔥
 
 ## 🚀 Features
-- Random number generation using Python's built-in 'random' module
+- Random number generation using Python's built-in `random` module
 - Input validation to keep things clean
 - Dynamic feedback on each guess (too high, too low)
 - Keeps track of how many guesses it took you
